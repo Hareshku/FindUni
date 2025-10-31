@@ -1,3 +1,21 @@
+**FindUni**, a platform created to help **Pakistani students easily discover and explore all universities in Pakistan, all in one place**.
+
+🧩 **The Problem**
+
+In Pakistan, many students struggle to find the **right university** because there is **no single, reliable platform** that lists all available options.
+Most students **search manually**, visiting multiple websites to check **admission openings, program details**, and **eligibility criteria**.
+Due to this lack of awareness and guidance, **many students miss out on the best universities and opportunities**.
+
+💡 **The Solution**
+
+**FindUni** solves this problem by providing a **centralized platform** that displays **all universities of Pakistan** in one convenient location.
+Each university listing includes its **official website link**, allowing students to directly visit and explore **admission details, programs, and other essential information**.
+
+This project aims to **simplify the university search process, save time, and guide students toward better academic decisions**, empowering them to choose the university that **best fits their goals and future aspirations**.
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
