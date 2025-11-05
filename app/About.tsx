@@ -12,6 +12,7 @@ const About = () => {
             loading="eager"
             height={500}
             width={500}
+            style={{ width: "auto", height: "auto" }}
           />
         </div>
         <div className="flex w-full text-white flex-col items-center justify-center p-5 md:w-[50%]">

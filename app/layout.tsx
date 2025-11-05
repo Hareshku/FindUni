@@ -17,10 +17,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <link
-        href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css"
-        rel="stylesheet"
-      />
+      <head>
+        <link
+          href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css"
+          rel="stylesheet"
+          precedence="default"
+        />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );

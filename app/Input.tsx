@@ -13,7 +13,7 @@ function Input(props: any) {
     type,
     ...rest
   } = props;
-  let [value, setValue] = useState("");
+  let [value, setValue] = useState(IValue || "");
   let [focused, setFocused] = useState(false);
   let [IType, setType] = useState(type);
 
@@ -25,17 +25,14 @@ function Input(props: any) {
 
   return (
     <div
-      className={`relative flex ${
-        wrapper === "textarea" ? "items-start" : "items-center"
-      } dark:text-black rounded-lg bg-gray-800 dark:bg-gray-500/5 dark:hover:bg-gray-500/10 hover:bg-gray-400/20 outline-none border-2 border-white/0 block w-full transition-all duration-200 ease-in-out sm:text-sm sm:leading-5 ${
-        focused && "bg-gray-400 border-primary/100"
-      } ${className}`}
+      className={`relative flex ${wrapper === "textarea" ? "items-start" : "items-center"
+        } dark:text-black rounded-lg bg-gray-800 dark:bg-gray-500/5 dark:hover:bg-gray-500/10 hover:bg-gray-400/20 outline-none border-2 border-white/0 block w-full transition-all duration-200 ease-in-out sm:text-sm sm:leading-5 ${focused && "bg-gray-400 border-primary/100"
+        } ${className}`}
     >
       {startsWith && (
         <div
-          className={`flex items-center justify-center h-full pl-4 ${
-            wrapper === "textarea" && "pt-3.5"
-          }`}
+          className={`flex items-center justify-center h-full pl-4 ${wrapper === "textarea" && "pt-3.5"
+            }`}
         >
           {startsWith}
         </div>
@@ -43,9 +40,8 @@ function Input(props: any) {
       <Component
         {...rest}
         type={type !== "password" ? type : IType}
-        className={`${
-          type === "password" && "pr-14"
-        } py-3 px-5 w-full h-full !outline-none focus:ring-0 bg-transparent !border-none focus:outline-none focus:border-none ${wrapperClass}`}
+        className={`${type === "password" && "pr-14"
+          } py-3 px-5 w-full h-full !outline-none focus:ring-0 bg-transparent !border-none focus:outline-none focus:border-none ${wrapperClass}`}
         rows={rows || 4}
         onChange={useCallback(
           (e: any) => {
