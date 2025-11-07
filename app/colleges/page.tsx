@@ -1,28 +1,37 @@
 import colleges from "../../colleges.json";
 import Header from "../Header";
+import Footer from "../Footer";
 import SchoolCard from "./Card";
 
 export default function Home() {
   return (
-    <div className="py-10">
-      <Header />
-      <div className="flex flex-col max-w-7xl mx-auto pt-24">
-        <h1 className="text-2xl text-gray-500 font-semibold uppercase tracking-widest">
-          Colleges
-        </h1>
-        <div className="space-y-4 pt-5">
-          {colleges.map((college, i) => (
-            //@ts-ignore
-            <SchoolCard
-              name={college.SchoolName}
-              url={college.URL}
-              city={college.City}
-              state={college.State}
-              key={i}
-            />
-          ))}
+    <div>
+      <div className="py-10 min-h-screen">
+        <Header />
+        <div className="flex flex-col max-w-7xl mx-auto pt-24 px-6">
+          <div className="mb-8">
+            <h1 className="text-4xl font-bold text-white mb-4">
+              Pakistani Universities
+            </h1>
+            <p className="text-gray-400 text-lg">
+              Explore {colleges.length} universities across Pakistan with detailed information about sectors, locations, and direct links.
+            </p>
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {colleges.map((college, i) => (
+              <SchoolCard
+                name={college.name}
+                link={college.link}
+                city={college.city}
+                province={college.province}
+                sector={college.sector}
+                key={i}
+              />
+            ))}
+          </div>
         </div>
       </div>
+      <Footer />
     </div>
   );
 }

@@ -20,7 +20,7 @@ const Header = () => {
           <div className="flex items-center cursor-pointer space-x-2 md:border-r md:border-gray-600">
             <Image src="/icon.png" height={40} width={40} alt="Logo" />
             <p className="tracking-widest font-semibold pr-5 text-gray-100 uppercase">
-              UniStat
+              FindUni
             </p>
           </div>
           <div className="md:flex items-center pl-7 hidden space-x-4 md:space-x-10 lg:space-x-12">
@@ -33,9 +33,6 @@ const Header = () => {
             </Link>
             <Link href="/resources" className={styleLink}>
               Resources
-            </Link>
-            <Link href="/team" className={styleLink}>
-              Team
             </Link>
           </div>
         </div>

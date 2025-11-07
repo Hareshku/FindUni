@@ -4,6 +4,7 @@ import About from "./About";
 import MagicLab from "./MagicLab";
 import OurMission from "./OurMission";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
       <OurMission />
       {/* <Volunteer /> */}
       <Contact />
+      <Footer />
     </div>
   );
 }

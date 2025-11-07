@@ -27,7 +27,7 @@ const Banner = (props: Props) => {
           Nurturing Dreams, Building Futures
         </p>
         <h1 className="text-3xl uppercase tracking-wide font-medium">
-          Guiding Dreams, Paving Paths: Your College Journey Starts Here
+          Guiding Dreams, Paving Paths: Your University Journey Starts Here
         </h1>
         <div className="flex flex-col space-y-4 items-center justify-center md:space-y-0 md:flex-row md:space-x-4">
           <Link
@@ -37,7 +37,7 @@ const Banner = (props: Props) => {
             More About us
           </Link>
           <Link
-            href="mailto:sameembaba22@gmail.com"
+            href="mailto:hareesh7737@gmail.com"
             className="px-4 py-2 rounded-lg flex items-center justify-center uppercase tracking-widest border-2 border-[#587ce0] transition-all duration-200 ease-in"
           >
             Get in touch

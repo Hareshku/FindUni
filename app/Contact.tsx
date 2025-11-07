@@ -23,7 +23,7 @@ const Contact = (props: Props) => {
         Message: ${form.message.value}
     `;
       window.open(
-        `mailto:healthladakh@gmail.com?subject=${subject}&body=${mailBody}`,
+        `mailto:hareesh7737@gmail.com?subject=${subject}&body=${mailBody}`,
         "_blank",
         "noopener,noreferrer"
       );
@@ -36,7 +36,7 @@ const Contact = (props: Props) => {
           <form onSubmit={Submit}>
             <h1 className="text-4xl font-bold">Contact</h1>
             <p className="text-sm mt-1 text-gray-500">
-              <i className="fa fa-envelope" /> healthladakh@gmail.com
+              <i className="fa fa-envelope" /> hareesh7737@gmail.com
             </p>
             <div className="flex flex-col gap-4 mt-4">
               <Input
@@ -79,9 +79,8 @@ const Contact = (props: Props) => {
 
               <Button
                 disabled={loading}
-                className={`flex items-center gap-4 ${
-                  loading && "opacity-50 cursor-not-allowed"
-                }`}
+                className={`flex items-center gap-4 ${loading && "opacity-50 cursor-not-allowed"
+                  }`}
               >
                 {loading && <i className="fal fa-spinner-third fa-spin" />}
                 {!loading && (
