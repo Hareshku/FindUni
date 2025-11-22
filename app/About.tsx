@@ -43,7 +43,7 @@ const About = () => {
 
             <div className="space-y-4">
               <p className="text-lg text-gray-300 leading-relaxed">
-                UniStat is a comprehensive platform designed to simplify your university selection process in Pakistan. We provide detailed insights into over 100 universities across all provinces.
+                FindUni is a comprehensive platform designed to simplify your university selection process in Pakistan. We provide detailed insights into over 100 universities across all provinces.
               </p>
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
