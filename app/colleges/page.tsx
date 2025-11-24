@@ -23,7 +23,6 @@ export default function Home() {
                 name={college.name}
                 link={college.link}
                 city={college.city}
-                province={college.province}
                 sector={college.sector}
                 key={i}
               />

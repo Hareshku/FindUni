@@ -3,700 +3,1200 @@
     "name": "Abasyn University",
     "sector": "Private",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://abasyn.edu.pk"
+    "link": "http://peshawar.abasyn.edu.pk/"
   },
   {
-    "name": "Abbottabad University Of Science And Technology (AUST)",
+    "name": "Abbottabad University of Science and Technology",
     "sector": "Public",
-    "city": "Abbottabad",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://aust.edu.pk"
+    "city": "Abbotabad",
+    "link": "https://aust.edu.pk/"
   },
   {
     "name": "Abdul Wali Khan University",
     "sector": "Public",
     "city": "Mardan",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://awkum.edu.pk"
+    "link": "https://awkum.edu.pk/"
   },
   {
-    "name": "Aga Khan University",
+    "name": "Agha Khan University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://aku.edu/"
+    "link": "https://www.aku.edu/Pages/home.aspx"
   },
   {
     "name": "Air University",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://au.edu.pk/"
+    "link": "https://www.au.edu.pk/"
   },
   {
-    "name": "Al-hamd Islamic University",
+    "name": "Al-Ghazali University, Karachi",
     "sector": "Private",
-    "city": "Quetta",
-    "province": "Balochistan",
-    "link": "https://aiu.edu.pk"
+    "city": "Karachi",
+    "link": "https://agu.edu.pk/"
   },
   {
-    "name": "Ali Institute Of Education",
-    "sector": "Private",
-    "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://aie.edu.pk/"
-  },
-  {
-    "name": "Al-karam International Institute",
+    "name": "Al-Karam International Institute, Bhera",
     "sector": "Private",
     "city": "Bhera",
-    "province": "Punjab",
     "link": "https://akii.edu.pk/"
   },
   {
-    "name": "Al-khair University",
+    "name": "Al-Kawthar University, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://alkawthar.edu.pk/"
+  },
+  {
+    "name": "Al-Khair University",
     "sector": "Private",
     "city": "Bhimber",
-    "province": "Azad Jammu and Kashmir (AJK)",
     "link": "https://alkhair.edu.pk/"
   },
   {
-    "name": "Al-khair University (Banned By HEC)",
+    "name": "Alhamd Islamic University",
     "sector": "Private",
-    "city": "Muzaffarabad",
-    "province": "Azad Jammu and Kashmir (AJK)",
-    "link": "https://alkhair.edu.pk"
+    "city": "Quetta",
+    "link": "https://aiu.edu.pk/"
+  },
+  {
+    "name": "Ali Institute of Education",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://aie.edu.pk/"
   },
   {
     "name": "Allama Iqbal Open University",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://aiou.edu.pk"
+    "link": "https://www.aiou.edu.pk/"
   },
   {
-    "name": "Al-qadir University",
+    "name": "Aror University of Art, Architecture, Design and Heritage",
     "sector": "Public",
-    "city": "Sohawa",
-    "province": "Punjab",
-    "link": "https://alqadir.edu.pk/"
+    "city": "Sukkur",
+    "link": "https://aror.edu.pk/"
   },
   {
     "name": "Baba Guru Nanak University",
     "sector": "Public",
     "city": "Nankana Sahib",
-    "province": "Punjab",
     "link": "https://bgnu.edu.pk/"
   },
   {
     "name": "Bacha Khan University",
     "sector": "Public",
     "city": "Charsadda",
-    "province": "Khyber Pakhtunkhwa(KPK)",
     "link": "https://bkuc.edu.pk/"
   },
   {
     "name": "Bahauddin Zakariya University",
     "sector": "Public",
     "city": "Multan",
-    "province": "Punjab",
-    "link": "https://bzu.edu.pk"
+    "link": "https://bzu.edu.pk/"
   },
   {
     "name": "Bahria University",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://bahria.edu.pk/"
+    "link": "https://www.bahria.edu.pk/"
   },
   {
-    "name": "Balochistan University Of Engineering & Technology",
+    "name": "Balochistan University of Engineering & Technology",
     "sector": "Public",
     "city": "Khuzdar",
-    "province": "Balochistan",
-    "link": "https://buetk.edu.pk"
+    "link": "https://www.buetk.edu.pk/"
   },
   {
-    "name": "Balochistan University Of Information Technology & Management Sciences",
+    "name": "BUITEMS",
     "sector": "Public",
     "city": "Quetta",
-    "province": "Balochistan",
-    "link": "https://www.buitms.edu.pk"
+    "link": "https://www.buitms.edu.pk/"
   },
   {
     "name": "Baqai Medical University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://baqai.edu.pk"
-  },
-  {
-    "name": "Salim Habib University",
-    "sector": "Private",
-    "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://shu.edu.pk/"
+    "link": "https://baqai.edu.pk/"
   },
   {
     "name": "Beaconhouse National University",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://bnu.edu.pk"
+    "link": "https://www.bnu.edu.pk/"
+  },
+  {
+    "name": "Begum Nusrat Bhutto Women University",
+    "sector": "Public",
+    "city": "Sukkur",
+    "link": "https://bnbwu.edu.pk/"
   },
   {
     "name": "Benazir Bhutto Shaheed University Lyari",
     "sector": "Public",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://bbsul.edu.pk"
+    "link": "https://bbsul.edu.pk/"
   },
   {
-    "name": "Benazir Bhutto Shaheed University Of Technology & Skill Development, Khairpur Mirs",
+    "name": "Benazir Bhutto Shaheed University of Technology & Skill Development",
     "sector": "Public",
-    "city": "Khairpur",
-    "province": "Sindh",
+    "city": "Khairpur Mirs",
     "link": "https://bbsutsd.edu.pk/"
   },
   {
     "name": "Brains Institute Peshawar",
     "sector": "Private",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://brains.edu.pk"
+    "link": "https://brains.edu.pk/"
   },
   {
-    "name": "Capital University Of Science & Technology",
+    "name": "Capital University of Science & Technology",
     "sector": "Private",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
     "link": "https://cust.edu.pk/"
   },
   {
-    "name": "Cecos University Of Information Technology & Emerging Sciences",
+    "name": "CECOS University",
     "sector": "Private",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://cecos.edu.pk"
+    "link": "https://cecos.edu.pk/"
   },
   {
-    "name": "Cholistan University Of Veterinary And Animal Sciences, Bahawalpur",
+    "name": "Cholistan University of Veterinary and Animal Sciences",
     "sector": "Public",
     "city": "Bahawalpur",
-    "province": "Punjab",
-    "link": "https://cuvas.edu.pk"
+    "link": "https://www.cuvas.edu.pk/"
   },
   {
-    "name": "City University Of Science And Information Technology",
+    "name": "City University of Science and IT",
     "sector": "Private",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://cityuniversity.edu.pk"
+    "link": "https://cityuniversity.edu.pk/"
   },
   {
-    "name": "Commecs Institute Of Business & Emerging Sciences",
+    "name": "Commecs Institute of Business & Emerging Sciences",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://commecsinstitute.edu.pk"
+    "link": "https://commecsinstitute.edu.pk/"
   },
   {
-    "name": "Comsats Institute Of Information Technology",
+    "name": "COMSATS University",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://comsats.edu.pk/"
+    "link": "https://www.comsats.edu.pk/"
   },
   {
-    "name": "Dadabhoy Institute Of Higher Education",
+    "name": "Dadabhoy Institute of Higher Education",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://dadabhoy.edu.pk"
+    "link": "https://dadabhoy.edu.pk/"
   },
   {
-    "name": "Dawood University Of Engineering & Technology",
+    "name": "Dar-ul-Madina International University",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://dmiu.edu.pk/"
+  },
+  {
+    "name": "Dawood University of Engineering & Technology",
     "sector": "Public",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://duet.edu.pk"
+    "link": "https://duet.edu.pk/"
   },
   {
-    "name": "Dha Suffa University",
+    "name": "DHA Suffa University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://dsu.edu.pk"
+    "link": "https://www.dsu.edu.pk/"
   },
   {
-    "name": "Dow University Of Health Sciences",
+    "name": "DOW University of Health Sciences",
     "sector": "Public",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://duhs.edu.pk"
+    "link": "https://www.duhs.edu.pk/"
   },
   {
-    "name": "Emaan Institute Of Management & Sciences, Karachi",
+    "name": "Emaan Institute of Management & Sciences",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://emaan.edu.pk"
+    "link": "https://www.emaan.edu.pk/"
   },
   {
-    "name": "Faisalabad Medical University, Faisalabad",
+    "name": "Emerson University",
+    "sector": "Public",
+    "city": "Multan",
+    "link": ""
+  },
+  {
+    "name": "Faisalabad Medical University",
     "sector": "Public",
     "city": "Faisalabad",
-    "province": "Punjab",
-    "link": "https://pmc.edu.pk/"
+    "link": "https://www.pmc.edu.pk/"
   },
   {
-    "name": "Fata University",
-    "sector": "Public",
-    "city": "Akhorwal",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://fu.edu.pk/"
-  },
-  {
-    "name": "Fatima Jinnah Medical University, Lahore",
+    "name": "Fatima Jinnah Medical University",
     "sector": "Public",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://fjmu.edu.pk/"
+    "link": "https://www.fjmu.edu.pk/"
   },
   {
     "name": "Fatima Jinnah Women University",
     "sector": "Public",
     "city": "Rawalpindi",
-    "province": "Punjab",
-    "link": "https://fjwu.edu.pk"
+    "link": "https://fjwu.edu.pk/"
   },
   {
-    "name": "Federal Urdu University Of Arts, Sciences & Technology",
+    "name": "Federal Urdu University of Arts, Sciences & Technology",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://fuuastisb.edu.pk/"
+    "link": "https://www.fuuastisb.edu.pk/"
   },
   {
     "name": "Forman Christian College",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://fccollege.edu.pk"
+    "link": "https://www.fccollege.edu.pk/"
   },
   {
     "name": "Foundation University",
     "sector": "Private",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
     "link": "https://fui.edu.pk/"
   },
   {
-    "name": "Gambat Institute Of Medical Sciences",
+    "name": "Gambat Institute of Medical Sciences",
     "sector": "Public",
     "city": "Khairpur",
-    "province": "Sindh",
-    "link": "https://gims.edu.pk/"
+    "link": "http://www.gims.edu.pk/"
   },
   {
     "name": "Gandhara University",
     "sector": "Private",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://gandhara.edu.pk"
+    "link": "https://gandhara.edu.pk/"
+  },
+  {
+    "name": "Ghazi National Institute of Engineering and Sciences",
+    "sector": "Private",
+    "city": "Dera Ghazi Khan",
+    "link": "https://gnies.edu.pk/"
   },
   {
     "name": "Ghazi University",
     "sector": "Public",
     "city": "Dera Ghazi Khan",
-    "province": "Punjab",
-    "link": "https://gudgk.edu.pk"
+    "link": "https://www.gudgk.edu.pk/"
   },
   {
-    "name": "Ghulam Ishaq Khan Institute Of Engineering Sciences & Technology",
+    "name": "Ghulam Ishaq Khan Institute",
     "sector": "Private",
     "city": "Swabi",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://giki.edu.pk"
+    "link": "https://giki.edu.pk/"
   },
   {
-    "name": "Gift University",
+    "name": "GIFT University",
     "sector": "Private",
     "city": "Gujranwala",
-    "province": "Punjab",
-    "link": "https://gift.edu.pk"
+    "link": "https://gift.edu.pk/"
   },
   {
-    "name": "Global Institute, Lahore [hec-noc Suspended]",
+    "name": "Global Institute",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://global.edu.pk/"
+    "link": "http://global.edu.pk/"
   },
   {
     "name": "Gomal University",
     "sector": "Public",
     "city": "Dera Ismail Khan",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://gu.edu.pk/"
+    "link": "http://gu.edu.pk/"
   },
   {
-    "name": "Government College University",
+    "name": "Government College for Women University",
+    "sector": "Public",
+    "city": "Sialkot",
+    "link": "https://gcwus.edu.pk/"
+  },
+  {
+    "name": "Government College University Faisalabad",
     "sector": "Public",
     "city": "Faisalabad",
-    "province": "Punjab",
-    "link": "https://gcuf.edu.pk"
+    "link": "https://gcuf.edu.pk/"
   },
   {
-    "name": "Government College University, Hyderabad",
+    "name": "Government College University Hyderabad",
     "sector": "Public",
     "city": "Hyderabad",
-    "province": "Sindh",
-    "link": "https://gcuh.edu.pk"
+    "link": "https://www.gcuh.edu.pk/"
   },
   {
-    "name": "Government College University, Lahore",
+    "name": "Government College University Lahore",
     "sector": "Public",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://gcu.edu.pk"
+    "link": "https://www.gcu.edu.pk/"
   },
   {
     "name": "Government College Women University Faisalabad",
     "sector": "Public",
     "city": "Faisalabad",
-    "province": "Punjab",
     "link": "https://gcwuf.edu.pk/"
-  },
-  {
-    "name": "Government College Women University, Sialkot",
-    "sector": "Public",
-    "city": "Sialkot",
-    "province": "Punjab",
-    "link": "https://gcwus.edu.pk/"
   },
   {
     "name": "Government Sadiq College Women University",
     "sector": "Public",
     "city": "Bahawalpur",
-    "province": "Punjab",
-    "link": "https://gscwu.edu.pk/"
+    "link": "https://www.gscwu.edu.pk/"
   },
   {
     "name": "Greenwich University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://greenwich.edu.pk/"
+    "link": "https://www.greenwich.edu.pk/"
   },
   {
     "name": "Habib University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://habib.edu.pk"
+    "link": "https://habib.edu.pk/"
   },
   {
     "name": "Hajvery University",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://hajvery.edu.pk"
+    "link": "https://hup.edu.pk/"
   },
   {
     "name": "Hamdard University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://hamdard.edu.pk"
+    "link": "https://www.hamdard.edu.pk/"
+  },
+  {
+    "name": "Hands Institute of Development Studies",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://hands-ids.edu.pk/"
   },
   {
     "name": "Hazara University",
     "sector": "Public",
     "city": "Mansehra",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://hu.edu.pk"
+    "link": "https://hu.edu.pk/"
   },
   {
-    "name": "Hitec University",
+    "name": "Health Services Academy",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://hsa.edu.pk/"
+  },
+  {
+    "name": "HITEC University",
     "sector": "Private",
     "city": "Taxila",
-    "province": "Punjab",
-    "link": "https://hitecuni.edu.pk"
+    "link": "https://www.hitecuni.edu.pk/"
   },
   {
-    "name": "Ilma University",
+    "name": "Hyderabad Institute for Technology & Management Sciences",
+    "sector": "Public",
+    "city": "Hyderabad",
+    "link": "http://www.hitms.edu.pk/"
+  },
+  {
+    "name": "Ibadat International University",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://iiui.edu.pk/"
+  },
+  {
+    "name": "Ibn-e-Sina University",
+    "sector": "Private",
+    "city": "Mirpurkhas",
+    "link": "https://www.isu.edu.pk/"
+  },
+  {
+    "name": "ILMA University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
     "link": "https://ilmauniversity.edu.pk/"
   },
   {
-    "name": "Imperial College Of Business Studies",
+    "name": "Imperial College of Business Studies",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
     "link": "https://imperial.edu.pk/"
   },
   {
     "name": "Indus University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://indus.edu.pk"
+    "link": "https://www.indus.edu.pk/"
   },
   {
-    "name": "Indus Valley School Of Art & Architecture",
+    "name": "Indus Valley School of Art & Architecture",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://indusvalley.edu.pk"
+    "link": "https://indusvalley.edu.pk/"
   },
   {
-    "name": "Information Technology University Of The Punjab",
+    "name": "Information Technology University",
     "sector": "Public",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://itu.edu.pk"
+    "link": "https://itu.edu.pk/"
   },
   {
-    "name": "Institute For Art And Culture",
+    "name": "Institute for Art and Culture",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
     "link": "https://iac.edu.pk/"
   },
   {
-    "name": "Institute Of Business Administration",
+    "name": "Institute of Business Administration",
     "sector": "Public",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://iba.edu.pk"
+    "link": "https://www.iba.edu.pk/"
   },
   {
-    "name": "Institute Of Business Management",
+    "name": "Institute of Business Management",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://iobm.edu.pk"
+    "link": "https://www.iobm.edu.pk/"
   },
   {
-    "name": "Institute Of Management & Applied Sciences",
-    "sector": "Private",
-    "city": "Khanewal",
-    "province": "Punjab",
-    "link": "https://imas.edu.pk"
-  },
-  {
-    "name": "Institute Of Management Sciences",
+    "name": "Institute of Management Sciences",
     "sector": "Public",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://imsciences.edu.pk"
+    "link": "https://imsciences.edu.pk/"
   },
   {
-    "name": "Institute Of Management Sciences, Lahore",
-    "sector": "Private",
-    "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://pakaims.edu.pk"
-  },
-  {
-    "name": "Institute Of Southern Punjab",
-    "sector": "Private",
-    "city": "Multan",
-    "province": "Punjab",
-    "link": "https://isp.edu.pk/"
-  },
-  {
-    "name": "Institute Of Space Technology",
+    "name": "Institute of Space Technology",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://ist.edu.pk/"
+    "link": "https://www.ist.edu.pk/"
   },
   {
-    "name": "International Institute Of Science, Art And Technology",
+    "name": "International Institute of Science, Arts and Technology",
     "sector": "Private",
     "city": "Gujranwala",
-    "province": "Punjab",
-    "link": "https://iisat.edu.pk/"
+    "link": "https://www.iisat.edu.pk/"
   },
   {
     "name": "International Islamic University",
     "sector": "Public",
     "city": "Islamabad",
-    "province": "Islamabad Capital Territory",
-    "link": "https://iiu.edu.pk/"
+    "link": "https://www.iiu.edu.pk"
   },
   {
     "name": "Iqra National University",
     "sector": "Private",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://inu.edu.pk"
+    "link": "https://inu.edu.pk/"
   },
   {
     "name": "Iqra University",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://iqra.edu.pk"
+    "link": "https://iqra.edu.pk/"
   },
   {
-    "name": "Islamia College University",
+    "name": "IUHT Islamabad",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://iuht.pk/"
+  },
+  {
+    "name": "Islamia College Peshawar",
     "sector": "Public",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://icp.edu.pk"
+    "link": "https://www.icp.edu.pk/icp/index.php"
   },
   {
     "name": "Islamia University",
     "sector": "Public",
     "city": "Bahawalpur",
-    "province": "Punjab",
-    "link": "https://iub.edu.pk"
+    "link": "https://www.iub.edu.pk/"
   },
   {
     "name": "Isra University",
     "sector": "Private",
     "city": "Hyderabad",
-    "province": "Sindh",
     "link": "https://isra.edu.pk"
   },
   {
     "name": "Jinnah Sindh Medical University",
     "sector": "Public",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://jsmu.edu.pk"
+    "link": "https://www.jsmu.edu.pk"
   },
   {
-    "name": "Jinnah University For Women",
+    "name": "Jinnah University for Women",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://juw.edu.pk"
+    "link": "https://www.juw.edu.pk"
   },
   {
-    "name": "Karachi Institute Of Economics & Technology",
+    "name": "Kalam Bibi International Women Institute",
+    "sector": "Public",
+    "city": "Bannu",
+    "link": "https://www.kiwi.edu.pk"
+  },
+  {
+    "name": "Karachi Institute of Economics & Technology",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://pafkiet.edu.pk"
+    "link": "https://kiet.edu.pk"
   },
   {
-    "name": "Karachi School For Business & Leadership",
+    "name": "KITE Karachi",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://ksbl.edu.pk"
+    "link": "https://kite.edu.pk/"
   },
   {
-    "name": "Karakurum International University",
+    "name": "Karachi Metropolitan University",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://thekmu.edu.pk/"
+  },
+  {
+    "name": "Karachi School of Business and Leadership",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://www.ksbl.edu.pk/"
+  },
+  {
+    "name": "Karakorum International University",
     "sector": "Public",
     "city": "Gilgit",
-    "province": "Gilgit–Baltistan",
-    "link": "https://kiu.edu.pk"
+    "link": "https://www.kiu.edu.pk/"
   },
   {
-    "name": "Kasb Institute Of Technology",
+    "name": "KASB Institute of Technology",
     "sector": "Private",
     "city": "Karachi",
-    "province": "Sindh",
-    "link": "https://kasbit.edu.pk"
+    "link": "https://kasbit.edu.pk/"
   },
   {
-    "name": "Khawaja Freed University Of Engineering & Information Technology",
+    "name": "KFUEIT Rahim Yar Khan",
     "sector": "Public",
     "city": "Rahim Yar Khan",
-    "province": "Punjab",
-    "link": "https://kfueit.edu.pk/"
+    "link": "https://www.kfueit.edu.pk/"
   },
   {
     "name": "Khushal Khan Khattak University",
     "sector": "Public",
     "city": "Karak",
-    "province": "Khyber Pakhtunkhwa(KPK)",
     "link": "https://kkkuk.edu.pk/"
   },
   {
     "name": "Khyber Medical University",
     "sector": "Public",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://kmu.edu.pk"
+    "link": "https://kmu.edu.pk/"
   },
   {
     "name": "Khyber Pakhtunkhwa Agricultural University",
     "sector": "Public",
     "city": "Peshawar",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://aup.edu.pk"
+    "link": "https://www.aup.edu.pk/"
   },
   {
     "name": "King Edward Medical University",
     "sector": "Public",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://kemu.edu.pk"
+    "link": "https://kemu.edu.pk/"
   },
   {
-    "name": "Kinnaird College For Women",
+    "name": "Kinnaird College for Women",
     "sector": "Public",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://kinnaird.edu.pk"
+    "link": "https://kinnaird.edu.pk/"
   },
   {
-    "name": "Kohat University Of Science And Technology",
+    "name": "Kohat University of Science and Technology",
     "sector": "Public",
     "city": "Kohat",
-    "province": "Khyber Pakhtunkhwa(KPK)",
-    "link": "https://kust.edu.pk"
+    "link": "https://www.kust.edu.pk/kust/pages/index.php"
   },
   {
-    "name": "Kohsar University Murree",
+    "name": "Kohsar University, Murree",
     "sector": "Public",
     "city": "Murree",
-    "province": "Punjab",
-    "link": "https://kum.edu.pk/kum/"
+    "link": "https://kum.edu.pk/"
   },
   {
-    "name": "Lahore College For Women University",
+    "name": "Lahore College for Women University",
     "sector": "Public",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://lcwu.edu.pk"
+    "link": "https://www.lcwu.edu.pk/"
   },
   {
     "name": "Lahore Garrison University",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
     "link": "https://lgu.edu.pk/"
+  },
+  {
+    "name": "Lahore Institute of Science & Technology, Lahore",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://list.edu.pk/"
   },
   {
     "name": "Lahore Leads University",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://leads.edu.pk"
+    "link": "https://www.leads.edu.pk/"
   },
   {
-    "name": "Lahore School Of Economics",
+    "name": "Lahore School of Economics",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://lahoreschoolofeconomics.edu.pk"
+    "link": "https://lahoreschoolofeconomics.edu.pk/"
   },
   {
-    "name": "Lahore University Of Management Sciences",
+    "name": "Lahore University of Biological and Applied Sciences, Lahore",
     "sector": "Private",
     "city": "Lahore",
-    "province": "Punjab",
-    "link": "https://lums.edu.pk"
+    "link": "https://ubas.edu.pk/"
+  },
+  {
+    "name": "Lahore University of Management Sciences",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": ""
+  },
+  {
+    "name": "Lasbela University of Agriculture, Water & Marine Sciences",
+    "sector": "Public",
+    "city": "Lasbela",
+    "link": "http://luawms.edu.pk/"
+  },
+  {
+    "name": "Liaquat University of Medical & Health Sciences",
+    "sector": "Public",
+    "city": "Jamshoro",
+    "link": "https://www.lumhs.edu.pk/home/#"
+  },
+  {
+    "name": "Malir University of Science & Technology, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://www.maliruniversity.edu.pk/"
+  },
+  {
+    "name": "Mehran University of Engineering & Technology",
+    "sector": "Public",
+    "city": "Jamshoro",
+    "link": "https://www.muet.edu.pk/"
+  },
+  {
+    "name": "Metropolitan University, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://muk.edu.pk/"
+  },
+  {
+    "name": "Millennium Institute of Technology and Entrepreneurship, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://mite.edu.pk/"
+  },
+  {
+    "name": "Minhaj University",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://www.mul.edu.pk/en/"
+  },
+  {
+    "name": "Mir Chakar Khan Rind University of Technology, Dera Ghazi Khan",
+    "sector": "Public",
+    "city": "Dera Ghazi Khan",
+    "link": "https://www.mcut.edu.pk/"
+  },
+  {
+    "name": "Mir Chakar Khan Rind University, Sibi Balochistan",
+    "sector": "Public",
+    "city": "Sibi",
+    "link": "https://mckru.edu.pk/"
+  },
+  {
+    "name": "Mirpur University of Science & Technology",
+    "sector": "Public",
+    "city": "Mirpur",
+    "link": "https://must.edu.pk/"
+  },
+  {
+    "name": "Mohi-ud-Din Islamic University",
+    "sector": "Private",
+    "city": "Nerian Sharif",
+    "link": "https://miu.edu.pk/homepage"
+  },
+  {
+    "name": "Muhammad Ali Jinnah University",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://jinnah.edu/"
+  },
+  {
+    "name": "Muhammad Nawaz Shareef University of Agriculture",
+    "sector": "Public",
+    "city": "Multan",
+    "link": "https://www.mnsuam.edu.pk/"
+  },
+  {
+    "name": "Muhammad Nawaz Sharif University of Engineering & Technology",
+    "sector": "Public",
+    "city": "Multan",
+    "link": "https://mnsuet.edu.pk/"
+  },
+  {
+    "name": "Multan University of Science and Technology, Multan",
+    "sector": "Private",
+    "city": "Multan",
+    "link": "https://www.multanust.edu.pk/"
+  },
+  {
+    "name": "MY University, Islamabad",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://myu.edu.pk/"
+  },
+  {
+    "name": "Namal University, Mianwali",
+    "sector": "Private",
+    "city": "Mianwali",
+    "link": "https://namal.edu.pk/"
+  },
+  {
+    "name": "National College of Arts",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://www.nca.edu.pk/"
+  },
+  {
+    "name": "National College of Business Administration & Economics",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://ncbae.edu.pk/contact/"
+  },
+  {
+    "name": "National Defense University",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://ndu.edu.pk/"
+  },
+  {
+    "name": "National Excellence Institute (NEI), Rawalpindi",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://www.nei.edu.pk/"
+  },
+  {
+    "name": "National Institute of Technology, Lahore",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://www.nit.edu.pk/"
+  },
+  {
+    "name": "National Skills University, Islamabad",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://nsu.edu.pk/"
+  },
+  {
+    "name": "National Textile University",
+    "sector": "Public",
+    "city": "Faisalabad",
+    "link": "https://ntu.edu.pk/index.php"
+  },
+  {
+    "name": "National University of Computer & Emerging Sciences, Islamabad",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://isb.nu.edu.pk/"
+  },
+  {
+    "name": "National University of Medical Sciences (NUMS)",
+    "sector": "Public",
+    "city": "Rawalpindi",
+    "link": "https://numspak.edu.pk/"
+  },
+  {
+    "name": "National University of Modern Languages",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://www.numl.edu.pk/"
+  },
+  {
+    "name": "National University of Pakistan",
+    "sector": "Public",
+    "city": "Rawalpindi",
+    "link": "https://nup.edu.pk/"
+  },
+  {
+    "name": "National University of Sciences & Technology",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://nust.edu.pk/"
+  },
+  {
+    "name": "National University of Technology (NUTECH), Islamabad",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://nutech.edu.pk/"
+  },
+  {
+    "name": "NED University of Engineering & Technology",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://www.neduet.edu.pk/"
+  },
+  {
+    "name": "Newport Institute of Communications & Economics",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://newports.edu.pk/"
+  },
+  {
+    "name": "NFC Institute of Engineering & Technology",
+    "sector": "Public",
+    "city": "Multan",
+    "link": "https://nfciet.edu.pk/"
+  },
+  {
+    "name": "Nishtar Medical University, Multan",
+    "sector": "Public",
+    "city": "Multan",
+    "link": "https://nmu.edu.pk/"
+  },
+  {
+    "name": "Northern University, Nowshera",
+    "sector": "Private",
+    "city": "Nowshera",
+    "link": "https://northern.edu.pk/"
+  },
+  {
+    "name": "Nur International University",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://www.niu.edu.pk/"
+  },
+  {
+    "name": "PAF Air War College Institute, Karachi",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://awci.edu.pk/"
+  },
+  {
+    "name": "Pak-American Institute of Management Sciences (Pak-AIMS)",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://pakaims.edu.pk/"
+  },
+  {
+    "name": "Pak-Austria Fachhochschule Institute of Applied Sciences and Technology, Haripur",
+    "sector": "Public",
+    "city": "Haripur",
+    "link": "https://paf-iast.edu.pk/"
+  },
+  {
+    "name": "Pakistan Global Institute, Rawat",
+    "sector": "Private",
+    "city": "Rawalpindi",
+    "link": "https://pgiedu.org/"
+  },
+  {
+    "name": "Pakistan Institute of Development Economics",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://pide.org.pk/"
+  },
+  {
+    "name": "Pakistan Institute of Engineering & Applied Sciences",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://www.pieas.edu.pk/"
+  },
+  {
+    "name": "Pakistan Institute of Fashion & Design",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://www.pifd.edu.pk/"
+  },
+  {
+    "name": "Pakistan Military Academy",
+    "sector": "Public",
+    "city": "Abbotabad",
+    "link": "http://www.pma.edu.pk"
+  },
+  {
+    "name": "Pakistan Naval Academy",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "http://www.paknavy.gov.pk"
+  },
+  {
+    "name": "Peoples University of Medical & Health Sciences for Women",
+    "sector": "Public",
+    "city": "Nawabshah",
+    "link": "https://pumhs.edu.pk/"
+  },
+  {
+    "name": "Pir Mehr Ali Shah Arid Agriculture University",
+    "sector": "Public",
+    "city": "Rawalpindi",
+    "link": ""
+  },
+  {
+    "name": "Preston Institute of Management, Science & Technology",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://pimsat-khi.edu.pk/"
+  },
+  {
+    "name": "Preston University, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://prestonkhi.edu.pk/"
+  },
+  {
+    "name": "Preston University, Kohat",
+    "sector": "Private",
+    "city": "Kohat",
+    "link": ""
+  },
+  {
+    "name": "Punjab Tianjin University of Technology, Lahore",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://ptut.edu.pk/"
+  },
+  {
+    "name": "Punjab University of Technology, Rasul-Mandi Bahauddin",
+    "sector": "Public",
+    "city": "Mandi Bahauddin",
+    "link": "https://putrasul.edu.pk/"
+  },
+  {
+    "name": "Qarshi University",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://qu.edu.pk/"
+  },
+  {
+    "name": "Quaid-e-Awam University of Engineering, Sciences & Technology",
+    "sector": "Public",
+    "city": "Nawabshah",
+    "link": "https://www.quest.edu.pk/"
+  },
+  {
+    "name": "Quaid-i-Azam University",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://qau.edu.pk/"
+  },
+  {
+    "name": "Qurtaba University of Science & Information Technology",
+    "sector": "Private",
+    "city": "Dera Ismail Khan",
+    "link": "https://www.qurtuba.edu.pk/"
+  },
+  {
+    "name": "Rashid Latif Khan University, Lahore",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://rlku.edu.pk/"
+  },
+  {
+    "name": "Rawalpindi Medical University",
+    "sector": "Public",
+    "city": "Rawalpindi",
+    "link": "https://rmur.edu.pk/"
+  },
+  {
+    "name": "Rawalpindi Women University, Rawalpindi",
+    "sector": "Public",
+    "city": "Rawalpindi",
+    "link": "https://www.rwu.edu.pk/"
+  },
+  {
+    "name": "Riphah International University",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://riphah.edu.pk/"
+  },
+  {
+    "name": "Saifee Burhani University",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://www.sbu.edu.pk/"
+  },
+  {
+    "name": "Salim Habib University, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": ""
+  },
+  {
+    "name": "Sardar Bahadur Khan Women University",
+    "sector": "Public",
+    "city": "Quetta",
+    "link": "https://www.sbkwu.edu.pk/"
+  },
+  {
+    "name": "Sarhad University of Science & Information Technology",
+    "sector": "Private",
+    "city": "Peshawar",
+    "link": "https://www.suit.edu.pk/"
+  },
+  {
+    "name": "Shah Abdul Latif University",
+    "sector": "Public",
+    "city": "Khairpur",
+    "link": "http://www.salu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Allah Buksh Soomro University of Arts, Design and Heritages, Jamshoro",
+    "sector": "Public",
+    "city": "Jamshoro",
+    "link": "https://sabsu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto City University",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://www.sbbcu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto Dewan University",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://sbbdewanuniversity.edu.pk/"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto University",
+    "sector": "Public",
+    "city": "Dir (Upper)",
+    "link": "https://sbbu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto University of Veterinary & Animal Sciences",
+    "sector": "Public",
+    "city": "Sakrand",
+    "link": "https://www.sbbuvas.edu.pk/"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto University, Shaheed Benazirabad",
+    "sector": "Public",
+    "city": "Nawabshah",
+    "link": "https://www.sbbusba.edu.pk/"
+  },
+  {
+    "name": "Shaheed Benazir Bhutto Women University",
+    "sector": "Public",
+    "city": "Peshawar",
+    "link": "https://sbbwu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Mohtarma Benazir Bhutto Medical University",
+    "sector": "Public",
+    "city": "Larkana",
+    "link": "https://www.smbbmu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Zulfikar Ali Bhutto Institute of Science & Technology",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://szabist-isb.edu.pk/"
+  },
+  {
+    "name": "Shaheed Zulfiqar Ali Bhutto Medical University",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://www.szabmu.edu.pk/"
+  },
+  {
+    "name": "Shaheed Zulfiqar Ali Bhutto University of Law",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://www.szabul.edu.pk/"
+  },
+  {
+    "name": "Shifa Tameer-e-Millat University",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://stmu.edu.pk/"
+  },
+  {
+    "name": "Sindh Agriculture University, Tandojam",
+    "sector": "Public",
+    "city": "Tandojam",
+    "link": "https://sau.edu.pk/"
+  },
+  {
+    "name": "Sindh Institute of Management & Technology",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://simat.edu.pk/"
+  },
+  {
+    "name": "Sindh Institute of Medical Sciences",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://sims.siut.edu.pk/"
+  },
+  {
+    "name": "Sindh Madresatul Islam University",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://smiu.edu.pk/"
+  },
+  {
+    "name": "Sir Syed (CASE) Institute of Technology, Islamabad",
+    "sector": "Private",
+    "city": "Islamabad",
+    "link": "https://case.edu.pk/"
+  },
+  {
+    "name": "Sir Syed University of Engineering & Technology",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://www.ssuet.edu.pk/"
+  },
+  {
+    "name": "Sohail University, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://sohailuniversity.edu.pk/"
+  },
+  {
+    "name": "South Punjab Institute of Science and Technology, Dera Ghazi Khan",
+    "sector": "Private",
+    "city": "Dera Ghazi Khan",
+    "link": "https://spist.edu.pk/"
+  },
+  {
+    "name": "Sukkur Institute of Business Administration",
+    "sector": "Public",
+    "city": "Sukkur",
+    "link": "https://www.iba-suk.edu.pk/"
+  },
+  {
+    "name": "Textile Institute of Pakistan",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://tip.edu.pk/"
+  },
+  {
+    "name": "Thal University, Bhakkar",
+    "sector": "Public",
+    "city": "Bhakkar",
+    "link": "https://tu.edu.pk/"
+  },
+  {
+    "name": "The Azad Jammu & Kashmir University of Bhimber",
+    "sector": "Public",
+    "city": "Bhimber",
+    "link": "https://ajkuob.edu.pk/"
   }
 ]
