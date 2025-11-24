@@ -1198,5 +1198,449 @@
     "sector": "Public",
     "city": "Bhimber",
     "link": "https://ajkuob.edu.pk/"
+  },
+  {
+    "name": "The Bolan University of Medical and Health Sciences, Quetta",
+    "sector": "Public",
+    "city": "Quetta",
+    "link": "https://www.bumhs.edu.pk/"
+  },
+  {
+    "name": "The Grand Asian University, Sialkot",
+    "sector": "Private",
+    "city": "Sialkot",
+    "link": "https://www.gaus.edu.pk/"
+  },
+  {
+    "name": "The Green International University, Lahore",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://www.giu.edu.pk/"
+  },
+  {
+    "name": "The Nazeer Hussain University",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://nhu.edu.pk/"
+  },
+  {
+    "name": "The Shaikh Ayaz University, Shikarpur Sindh",
+    "sector": "Public",
+    "city": "Shikarpur",
+    "link": "https://saus.edu.pk/"
+  },
+  {
+    "name": "The Sindh Institute of Physical Medicine and Rehabilitation, Karachi",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://sipmr.edu.pk/"
+  },
+  {
+    "name": "The Superior University, Lahore",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://www.superior.edu.pk/"
+  },
+  {
+    "name": "The University of Agriculture D.I.Khan",
+    "sector": "Public",
+    "city": "D. I. Khan",
+    "link": "https://www.uad.edu.pk/"
+  },
+  {
+    "name": "The University of Agriculture, Swat",
+    "sector": "Public",
+    "city": "Swat",
+    "link": "https://uoas.edu.pk/"
+  },
+  {
+    "name": "The University of Faisalabad",
+    "sector": "Private",
+    "city": "Faisalabad",
+    "link": "https://tuf.edu.pk/"
+  },
+  {
+    "name": "The University of larkano",
+    "sector": "Public",
+    "city": "Larkano",
+    "link": "https://uolrk.edu.pk/"
+  },
+  {
+    "name": "The Women University",
+    "sector": "Public",
+    "city": "Multan",
+    "link": "https://wum.edu.pk/"
+  },
+  {
+    "name": "Times Institute, Multan",
+    "sector": "Private",
+    "city": "Multan",
+    "link": "https://www.t.edu.pk/"
+  },
+  {
+    "name": "UIT University, Karachi",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://uitu.edu.pk/"
+  },
+  {
+    "name": "University of Agriculture",
+    "sector": "Public",
+    "city": "Faisalabad",
+    "link": "https://web.uaf.edu.pk/"
+  },
+  {
+    "name": "University of Art and Culture, Jamshoro",
+    "sector": "Private",
+    "city": "Jamshoro",
+    "link": "https://uac.edu.pk/official/"
+  },
+  {
+    "name": "University of Azad Jammu & Kashmir",
+    "sector": "Public",
+    "city": "Muzaffarabad",
+    "link": "https://ajku.edu.pk/"
+  },
+  {
+    "name": "University of Balochistan",
+    "sector": "Public",
+    "city": "Quetta",
+    "link": "http://www.uob.edu.pk/index.php"
+  },
+  {
+    "name": "University of Baltistan, Skardu",
+    "sector": "Public",
+    "city": "Skardu",
+    "link": "https://uobs.edu.pk/"
+  },
+  {
+    "name": "University of Buner",
+    "sector": "Public",
+    "city": "Buner",
+    "link": "https://www.ubuner.edu.pk/"
+  },
+  {
+    "name": "University of Central Punjab",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://ucp.edu.pk/"
+  },
+  {
+    "name": "University of Chakwal, Chakwal",
+    "sector": "Public",
+    "city": "Chakwal",
+    "link": "https://www.uoc.edu.pk/"
+  },
+  {
+    "name": "University of Chenab, Gujrat",
+    "sector": "Private",
+    "city": "Gujrat",
+    "link": "https://uchenab.edu.pk/"
+  },
+  {
+    "name": "University of Child Health Sciences, Lahore",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://uchs.edu.pk/"
+  },
+  {
+    "name": "University of Chitral",
+    "sector": "Public",
+    "city": "Chitral",
+    "link": "https://uoch.edu.pk/"
+  },
+  {
+    "name": "University of Education",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://www.ue.edu.pk/"
+  },
+  {
+    "name": "University of Engineering & Applied Sciences, Swat",
+    "sector": "Public",
+    "city": "Swat",
+    "link": "https://ueas.edu.pk/"
+  },
+  {
+    "name": "University of Engineering & Technology (UET), Mardan",
+    "sector": "Public",
+    "city": "Mardan",
+    "link": "https://www.uetmardan.edu.pk/"
+  },
+  {
+    "name": "University of Engineering & Technology, Lahore",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://uet.edu.pk/"
+  },
+  {
+    "name": "University of Engineering & Technology, Peshawar",
+    "sector": "Public",
+    "city": "Peshawar",
+    "link": "https://www.uetpeshawar.edu.pk/"
+  },
+  {
+    "name": "University of Engineering & Technology, Taxila",
+    "sector": "Public",
+    "city": "Taxila",
+    "link": "https://www.uettaxila.edu.pk/"
+  },
+  {
+    "name": "University of FATA",
+    "sector": "Public",
+    "city": "Kohat",
+    "link": "https://www.fu.edu.pk/"
+  },
+  {
+    "name": "University of Gujrat",
+    "sector": "Public",
+    "city": "Gujrat",
+    "link": "https://www.uog.edu.pk/"
+  },
+  {
+    "name": "University of Gwadar",
+    "sector": "Public",
+    "city": "Gwadar",
+    "link": "https://ug.edu.pk/"
+  },
+  {
+    "name": "University of Haripur",
+    "sector": "Public",
+    "city": "Haripur",
+    "link": "https://www.uoh.edu.pk/"
+  },
+  {
+    "name": "University of Health Sciences",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://www.uhs.edu.pk/"
+  },
+  {
+    "name": "University of Home Economics, Lahore",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://uhe.edu.pk/"
+  },
+  {
+    "name": "University of Jhang",
+    "sector": "Public",
+    "city": "Jhang",
+    "link": "https://uoj.edu.pk/"
+  },
+  {
+    "name": "University of Kamalia",
+    "sector": "Public",
+    "city": "Kamalia",
+    "link": "https://www.ukm.edu.pk/"
+  },
+  {
+    "name": "University of Karachi",
+    "sector": "Public",
+    "city": "Karachi",
+    "link": "https://www.uok.edu.pk/"
+  },
+  {
+    "name": "University of Kotli",
+    "sector": "Public",
+    "city": "Kotli",
+    "link": "https://www.uokajk.edu.pk/"
+  },
+  {
+    "name": "University of Lahore",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://uol.edu.pk/"
+  },
+  {
+    "name": "University of Lakki Marwat",
+    "sector": "Public",
+    "city": "Lakki Marwat",
+    "link": "https://www.ulm.edu.pk/"
+  },
+  {
+    "name": "University of Layyah",
+    "sector": "Public",
+    "city": "Layyah",
+    "link": "https://ul.edu.pk/"
+  },
+  {
+    "name": "University of Loralai",
+    "sector": "Public",
+    "city": "Loralai",
+    "link": ""
+  },
+  {
+    "name": "University of Makran, Panjgur",
+    "sector": "Public",
+    "city": "Panjgur",
+    "link": "https://uomp.edu.pk/"
+  },
+  {
+    "name": "University of Malakand",
+    "sector": "Public",
+    "city": "Malakand",
+    "link": "https://www.uom.edu.pk/"
+  },
+  {
+    "name": "University of Management & Technology",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://www.umt.edu.pk/"
+  },
+  {
+    "name": "University of Mianwali",
+    "sector": "Public",
+    "city": "Mianwali",
+    "link": "https://umw.edu.pk/"
+  },
+  {
+    "name": "University of Modern Sciences, Tando Muhammad Khan",
+    "sector": "Private",
+    "city": "Tando Muhammad Khan",
+    "link": "https://www.ums.edu.pk/"
+  },
+  {
+    "name": "University of Narowal",
+    "sector": "Public",
+    "city": "Narowal",
+    "link": "https://uon.edu.pk/"
+  },
+  {
+    "name": "University of Okara",
+    "sector": "Public",
+    "city": "Okara",
+    "link": "https://www.uo.edu.pk/"
+  },
+  {
+    "name": "University of Peshawar",
+    "sector": "Public",
+    "city": "Peshawar",
+    "link": "http://www.uop.edu.pk/"
+  },
+  {
+    "name": "University of Poonch",
+    "sector": "Public",
+    "city": "Rawalakot",
+    "link": "https://upr.edu.pk/"
+  },
+  {
+    "name": "University of Sahiwal",
+    "sector": "Public",
+    "city": "Sahiwal",
+    "link": "https://uosahiwal.edu.pk/"
+  },
+  {
+    "name": "University of Sargodha",
+    "sector": "Public",
+    "city": "Sargodha",
+    "link": "https://su.edu.pk/"
+  },
+  {
+    "name": "University of Science & Technology",
+    "sector": "Public",
+    "city": "Bannu",
+    "link": "https://www.ustb.edu.pk/"
+  },
+  {
+    "name": "University of Sialkot, Sialkot",
+    "sector": "Private",
+    "city": "Sialkot",
+    "link": "https://uskt.edu.pk/"
+  },
+  {
+    "name": "University of Sindh",
+    "sector": "Public",
+    "city": "Jamshoro",
+    "link": "https://usindh.edu.pk/"
+  },
+  {
+    "name": "University of South Asia",
+    "sector": "Private",
+    "city": "Lahore",
+    "link": "https://usa.edu.pk/"
+  },
+  {
+    "name": "University of Southern Punjab",
+    "sector": "Private",
+    "city": "Multan",
+    "link": "https://usp.edu.pk/"
+  },
+  {
+    "name": "University of Sufism and Modern Sciences, Bhitshah Sindh",
+    "sector": "Public",
+    "city": "Bhit Shah",
+    "link": "https://www.usms.edu.pk/"
+  },
+  {
+    "name": "University of Swabi",
+    "sector": "Public",
+    "city": "Swabi",
+    "link": "https://uoswabi.edu.pk/"
+  },
+  {
+    "name": "University of Swat",
+    "sector": "Public",
+    "city": "Swat",
+    "link": "https://uswat.edu.pk/"
+  },
+  {
+    "name": "University of Technology, Nowshera",
+    "sector": "Public",
+    "city": "Nowshera",
+    "link": "https://uotnowshera.edu.pk/"
+  },
+  {
+    "name": "University of the Punjab",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://pu.edu.pk/"
+  },
+  {
+    "name": "University of Turbat",
+    "sector": "Public",
+    "city": "Kech",
+    "link": "https://uot.edu.pk/"
+  },
+  {
+    "name": "University of Veterinary & Animal Sciences",
+    "sector": "Public",
+    "city": "Lahore",
+    "link": "https://www.uvas.edu.pk/"
+  },
+  {
+    "name": "University of Wah",
+    "sector": "Private",
+    "city": "Wah Cantt",
+    "link": "https://www.uow.edu.pk/"
+  },
+  {
+    "name": "Virtual University of Pakistan",
+    "sector": "Public",
+    "city": "Islamabad",
+    "link": "https://www.vu.edu.pk/"
+  },
+  {
+    "name": "Women University Mardan",
+    "sector": "Public",
+    "city": "Mardan",
+    "link": "https://wumardan.edu.pk/"
+  },
+  {
+    "name": "Women University of Azad Jammu & Kashmir",
+    "sector": "Public",
+    "city": "Bagh",
+    "link": "https://wuajk.edu.pk/"
+  },
+  {
+    "name": "Women University, Swabi",
+    "sector": "Public",
+    "city": "Swabi",
+    "link": "https://www.wus.edu.pk/"
+  },
+  {
+    "name": "Zia-ud-Din University",
+    "sector": "Private",
+    "city": "Karachi",
+    "link": "https://zu.edu.pk/"
   }
 ]
