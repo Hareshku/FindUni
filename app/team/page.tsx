@@ -32,7 +32,7 @@ const Team = async () => {
                 Meet Our Team
               </h1>
               <p className="text-gray-400 text-lg">
-                The passionate individuals behind UniStat
+                The passionate individuals behind FindUni
               </p>
             </div>
             <div className="grid grid-cols-1 w-full sm:grid-cols-2 place-items-center gap-8 md:grid-cols-3">

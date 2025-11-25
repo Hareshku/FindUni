@@ -8,10 +8,10 @@ const Banner = (props: Props) => {
   return (
     <div
       style={{
-        backgroundImage: `url(/bgImage.jpg)`,
+        backgroundImage: `url(/icons/bgImg.png)`,
         backgroundPosition: "center center",
         backgroundSize: "cover",
-        backgroundRepeat: "repeat",
+        backgroundRepeat: "no-repeat",
       }}
       className="text-white snap-center min-h-screen md:h-screen w-full text-center overflow-x-hidden flex flex-col items-center justify-center  relative md:py-0"
     >

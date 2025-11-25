@@ -18,7 +18,14 @@ const Header = () => {
         {/* Image */}
         <div className="flex">
           <div className="flex items-center cursor-pointer space-x-2 md:border-r md:border-gray-600">
-            <Image src="/icon.png" height={40} width={40} alt="Logo" />
+            <Image
+              src="/icons/image.png"
+              height={40}
+              width={40}
+              alt="Logo"
+              className="rounded-[30px]"
+            />
+
             <p className="tracking-widest font-semibold pr-5 text-gray-100 uppercase">
               FindUni
             </p>

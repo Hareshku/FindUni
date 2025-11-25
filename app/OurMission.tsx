@@ -80,14 +80,7 @@ const OurMission = () => {
             <div className="relative">
               <div className="absolute -inset-4 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl blur-xl opacity-20"></div>
               <div className="relative bg-gray-800 rounded-2xl overflow-hidden shadow-2xl border border-gray-700">
-                <iframe
-                  className="w-full h-64 lg:h-80"
-                  src="https://www.youtube.com/embed/P2pdhVHzSZA"
-                  title="UniStat Mission Video"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowFullScreen
-                ></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/hUtmR-twzi0?si=oVp9UxjWhKN586x9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </div>
             </div>
           </div>

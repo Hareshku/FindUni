@@ -5,9 +5,9 @@ import { Inter } from "next/font/google";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "UniStat",
+  title: "FindUni",
   description:
-    "UniStat is a website falls under the education section. It aims to help students in their college application by organizing the steps of this process to ensure they get accepted in their dream schools",
+    "FindUni is a website falls under the education section. It aims to help students in their college application by organizing the steps of this process to ensure they get accepted in their dream schools",
 };
 
 export default function RootLayout({

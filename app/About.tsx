@@ -32,7 +32,7 @@ const About = () => {
             <div className="space-y-4">
               <div className="inline-block">
                 <span className="bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text text-sm font-semibold uppercase tracking-wider">
-                  About UniStat
+                  About FindUni
                 </span>
               </div>
               <h2 className="text-4xl lg:text-5xl font-bold leading-tight">
