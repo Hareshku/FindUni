@@ -1,49 +1,55 @@
-//FOR HEADER RELATED WORK
 import Image from "next/image";
 import Link from "next/link";
-// import SocialIcons from "./SocialIcons";
 
-//for including images in nextjs we need this
 const Header = () => {
   const styleLink =
-    "text-gray-200 font-semibold tracking-widest cursor-pointer uppercase transitions";
+    "text-slate-700 hover:text-blue-600 font-medium tracking-wide cursor-pointer transition-all duration-200 relative group";
 
-  //this is called functional component, we include functions in this
   return (
-    //we write the html and css code here
-    <div className="fixed top-0 max-w-7xl mx-auto z-40">
-      <div
-        className={`px-6 py-2 h-20 flex transition-all bg-gray-800 duration-300 ease-in-out items-center w-screen justify-between `}
-      >
-        {/* Image */}
-        <div className="flex">
-          <div className="flex items-center cursor-pointer space-x-2 md:border-r md:border-gray-600">
-            <Image
-              src="/icons/image.png"
-              height={40}
-              width={40}
-              alt="Logo"
-              className="rounded-[30px]"
-            />
+    <div className="fixed top-0 w-full z-50 bg-white/95 backdrop-blur-md shadow-sm border-b border-slate-200">
+      <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
+        {/* Logo Section */}
+        <div className="flex items-center space-x-8">
+          <Link href="/" className="flex items-center space-x-3 group">
+            <div className="relative">
+              <Image
+                src="/icons/image.png"
+                height={45}
+                width={45}
+                alt="Logo"
+                className="rounded-full ring-2 ring-blue-100 group-hover:ring-blue-300 transition-all duration-200"
+              />
+            </div>
+          </Link>
 
-            <p className="tracking-widest font-semibold pr-5 text-gray-100 uppercase">
-              FindUni
-            </p>
-          </div>
-          <div className="md:flex items-center pl-7 hidden space-x-4 md:space-x-10 lg:space-x-12">
-            <a href="/" className={styleLink}>
-              Home
-            </a>
+          {/* Navigation Links */}
+          <nav className="hidden md:flex items-center space-x-8">
+            <Link href="/" className={styleLink}>
+              <span>Home</span>
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
+            </Link>
 
             <Link href="/colleges" className={styleLink}>
-              Universities
+              <span>Universities</span>
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
             </Link>
+
             <Link href="/resources" className={styleLink}>
-              Resources
+              <span>Resources</span>
+              <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-blue-600 group-hover:w-full transition-all duration-300"></span>
             </Link>
-          </div>
+          </nav>
         </div>
-        {/* <SocialIcons /> */}
+
+        {/* CTA Button */}
+        <div className="hidden md:block">
+          <Link
+            href="/colleges"
+            className="px-6 py-2.5 bg-blue-600 hover:bg-blue-700 text-white font-medium rounded-lg transition-all duration-200 shadow-sm hover:shadow-md"
+          >
+            Explore Now
+          </Link>
+        </div>
       </div>
     </div>
   );

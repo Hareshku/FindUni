@@ -50,16 +50,16 @@ export default function UniversitiesFilter({ universities }: Props) {
   return (
     <div className="space-y-6">
       {/* Filter Section */}
-      <div className="bg-gray-800/50 backdrop-blur-sm rounded-xl p-6 border border-gray-700">
-        <div className="flex items-center justify-between mb-4">
-          <h2 className="text-xl font-semibold text-white flex items-center space-x-2">
-            <i className="fas fa-filter text-blue-400"></i>
+      <div className="bg-white rounded-xl p-6 border border-slate-200 shadow-lg">
+        <div className="flex items-center justify-between mb-6">
+          <h2 className="text-xl font-bold text-slate-800 flex items-center space-x-2">
+            <i className="fas fa-filter text-blue-600"></i>
             <span>Filter Universities</span>
           </h2>
           {hasActiveFilters && (
             <button
               onClick={clearFilters}
-              className="text-sm text-gray-400 hover:text-white transition-colors duration-200 flex items-center space-x-1"
+              className="text-sm text-slate-600 hover:text-blue-600 transition-colors duration-200 flex items-center space-x-1 font-medium"
             >
               <i className="fas fa-times"></i>
               <span>Clear Filters</span>
@@ -70,8 +70,8 @@ export default function UniversitiesFilter({ universities }: Props) {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {/* Search by Name */}
           <div className="space-y-2">
-            <label className="text-sm font-medium text-gray-300 flex items-center space-x-2">
-              <i className="fas fa-search text-blue-400"></i>
+            <label className="text-sm font-semibold text-slate-700 flex items-center space-x-2">
+              <i className="fas fa-search text-blue-600"></i>
               <span>Search by Name</span>
             </label>
             <input
@@ -79,20 +79,20 @@ export default function UniversitiesFilter({ universities }: Props) {
               placeholder="Enter university name..."
               value={searchName}
               onChange={(e) => setSearchName(e.target.value)}
-              className="w-full px-4 py-2.5 bg-gray-900/50 border border-gray-600 rounded-lg text-white placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200"
+              className="w-full px-4 py-3 bg-slate-50 border border-slate-300 rounded-lg text-slate-800 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-all duration-200"
             />
           </div>
 
           {/* Filter by City */}
           <div className="space-y-2">
-            <label className="text-sm font-medium text-gray-300 flex items-center space-x-2">
-              <i className="fas fa-map-marker-alt text-green-400"></i>
+            <label className="text-sm font-semibold text-slate-700 flex items-center space-x-2">
+              <i className="fas fa-map-marker-alt text-teal-600"></i>
               <span>Filter by City</span>
             </label>
             <select
               value={selectedCity}
               onChange={(e) => setSelectedCity(e.target.value)}
-              className="w-full px-4 py-2.5 bg-gray-900/50 border border-gray-600 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-green-500 focus:border-transparent transition-all duration-200 cursor-pointer"
+              className="w-full px-4 py-3 bg-slate-50 border border-slate-300 rounded-lg text-slate-800 focus:outline-none focus:ring-2 focus:ring-teal-500 focus:border-teal-500 transition-all duration-200 cursor-pointer"
             >
               <option value="">All Cities</option>
               {cities.map((city) => (
@@ -105,14 +105,14 @@ export default function UniversitiesFilter({ universities }: Props) {
 
           {/* Filter by Sector */}
           <div className="space-y-2">
-            <label className="text-sm font-medium text-gray-300 flex items-center space-x-2">
-              <i className="fas fa-building text-purple-400"></i>
+            <label className="text-sm font-semibold text-slate-700 flex items-center space-x-2">
+              <i className="fas fa-building text-orange-600"></i>
               <span>Filter by Sector</span>
             </label>
             <select
               value={selectedSector}
               onChange={(e) => setSelectedSector(e.target.value)}
-              className="w-full px-4 py-2.5 bg-gray-900/50 border border-gray-600 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all duration-200 cursor-pointer"
+              className="w-full px-4 py-3 bg-slate-50 border border-slate-300 rounded-lg text-slate-800 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:border-orange-500 transition-all duration-200 cursor-pointer"
             >
               <option value="">All Sectors</option>
               <option value="Public">Public</option>
@@ -122,19 +122,19 @@ export default function UniversitiesFilter({ universities }: Props) {
         </div>
 
         {/* Results Count */}
-        <div className="mt-4 pt-4 border-t border-gray-700">
-          <p className="text-sm text-gray-400">
+        <div className="mt-6 pt-4 border-t border-slate-200">
+          <p className="text-sm text-slate-600">
             Showing{" "}
-            <span className="text-white font-semibold">
+            <span className="text-blue-600 font-bold">
               {filteredUniversities.length}
             </span>{" "}
             of{" "}
-            <span className="text-white font-semibold">
+            <span className="text-slate-800 font-bold">
               {universities.length}
             </span>{" "}
             universities
             {hasActiveFilters && (
-              <span className="ml-2 text-blue-400">
+              <span className="ml-2 text-teal-600 font-medium">
                 <i className="fas fa-info-circle"></i> Filters applied
               </span>
             )}
@@ -156,19 +156,19 @@ export default function UniversitiesFilter({ universities }: Props) {
           ))}
         </div>
       ) : (
-        <div className="text-center py-16">
-          <div className="inline-flex items-center justify-center w-16 h-16 bg-gray-800 rounded-full mb-4">
-            <i className="fas fa-search text-gray-400 text-2xl"></i>
+        <div className="text-center py-16 bg-white rounded-xl border border-slate-200">
+          <div className="inline-flex items-center justify-center w-20 h-20 bg-slate-100 rounded-full mb-4">
+            <i className="fas fa-search text-slate-400 text-3xl"></i>
           </div>
-          <h3 className="text-xl font-semibold text-white mb-2">
+          <h3 className="text-2xl font-bold text-slate-800 mb-2">
             No universities found
           </h3>
-          <p className="text-gray-400 mb-6">
+          <p className="text-slate-600 mb-6">
             Try adjusting your filters to find what you're looking for
           </p>
           <button
             onClick={clearFilters}
-            className="px-6 py-2 bg-blue-500 hover:bg-blue-600 text-white rounded-lg transition-colors duration-200"
+            className="px-8 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg font-semibold transition-all duration-200 shadow-lg hover:shadow-xl"
           >
             Clear All Filters
           </button>
