@@ -21,7 +21,6 @@ export default function RootLayout({
         <link
           href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css"
           rel="stylesheet"
-          precedence="default"
         />
       </head>
       <body className={inter.className}>{children}</body>

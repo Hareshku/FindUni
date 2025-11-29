@@ -20,7 +20,7 @@ const Footer = () => {
               <h3 className="text-2xl font-bold">FindUni</h3>
             </div>
             <p className="text-slate-400 mb-6 max-w-md leading-relaxed">
-              Pakistan's most comprehensive university discovery platform. Helping students make informed decisions about their higher education journey since 2024.
+              Pakistan&apos;s most comprehensive university discovery platform. Helping students make informed decisions about their higher education journey since 2024.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="w-10 h-10 bg-slate-800 hover:bg-blue-600 rounded-full flex items-center justify-center transition-all duration-300">
