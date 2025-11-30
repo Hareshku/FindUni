@@ -75,14 +75,7 @@ const OurMission = () => {
           {/* Video/Stats Section */}
           <div className="flex-1 space-y-6">
             <div className="bg-white rounded-2xl overflow-hidden shadow-xl border border-slate-200">
-              <iframe
-                className="w-full h-64 lg:h-80"
-                src="https://www.youtube.com/embed/P2pdhVHzSZA"
-                title="FindUni Mission Video"
-                frameBorder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-              ></iframe>
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/cPq0YQpCbxU?si=Dht4HNBAU1q43OVR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
 
             {/* Impact Stats */}

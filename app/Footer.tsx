@@ -17,7 +17,7 @@ const Footer = () => {
                 alt="Logo"
                 className="rounded-full"
               />
-              <h3 className="text-2xl font-bold">FindUni</h3>
+              <h3 className="text-2xl font-bold text-white">FindUni</h3>
             </div>
             <p className="text-slate-400 mb-6 max-w-md leading-relaxed">
               Pakistan&apos;s most comprehensive university discovery platform. Helping students make informed decisions about their higher education journey since 2024.
@@ -104,7 +104,7 @@ const Footer = () => {
         {/* Bottom Section */}
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-slate-400 text-sm">
-            Copyright © 2024 FindUni. All rights reserved. Made with <span className="text-red-500">❤</span> for Pakistani students.
+            Copyright © 2025 FindUni. All rights reserved. Made with <span className="text-red-500">❤</span> for Pakistani students.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-slate-400 hover:text-blue-400 text-sm transition-colors">
