@@ -13,7 +13,7 @@ const Header = () => {
           <Link href="/" className="flex items-center space-x-3 group">
             <div className="relative">
               <Image
-                src="/icons/image.png"
+                src="/icons/logo.png"
                 height={45}
                 width={45}
                 alt="Logo"

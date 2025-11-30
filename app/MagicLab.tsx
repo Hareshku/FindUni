@@ -12,7 +12,7 @@ const MagicLab = (props: Props) => {
           <GlobeAltIcon className="h-20 text-cyan-400" />
           <h2 className="text-3xl font-medium">Objectives.</h2>
         </div> */}
-        <div className="grid grid-cols-1 gap-x-10 mt-20 gap-y-[50px] md:grid-cols-2 xl:grid-cols-3 place-content-center">
+        <div className="grid grid-cols-1 gap-x-10 mt-20 gap-y-[50px] md:grid-cols-3 xl:grid-cols-3 place-content-center">
           <div className="min-h-fit flex flex-col justify-center items-center">
             <div className="flex w-24 h-24 justify-center items-center rounded-full bg-[#f64d52]">
               <Image
