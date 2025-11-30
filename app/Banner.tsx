@@ -24,14 +24,9 @@ const Banner = () => {
 
       {/* Content */}
       <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
-        <div className="space-y-8">
+        <div className="space-y-8 mt-16">
           {/* Badge */}
-          <div className="inline-flex items-center space-x-2 bg-white/10 backdrop-blur-md px-6 py-3 rounded-full border border-white/20">
-            <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></span>
-            <span className="text-white font-medium text-sm tracking-wide">
-              260+ Universities Listed
-            </span>
-          </div>
+
 
           {/* Main Heading */}
           <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight">
