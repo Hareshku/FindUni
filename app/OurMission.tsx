@@ -81,7 +81,7 @@ const OurMission = () => {
             {/* Impact Stats */}
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-white rounded-xl p-6 shadow-lg border border-slate-200 text-center">
-                <div className="text-4xl font-bold text-blue-600 mb-2">281+</div>
+                <div className="text-4xl font-bold text-blue-600 mb-2">260+</div>
                 <div className="text-sm text-slate-600 font-medium">Universities Listed</div>
               </div>
               <div className="bg-white rounded-xl p-6 shadow-lg border border-slate-200 text-center">

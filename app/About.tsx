@@ -14,6 +14,17 @@ const About = () => {
       </div>
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
+
+
+        <div className="inline-flex items-center space-x-2 bg-blue-50 px-4 py-2 rounded-full">
+          <div className="w-2 h-2 bg-blue-600 rounded-full"></div>
+          <span className="text-blue-600 font-semibold text-sm uppercase tracking-wide">
+            About FindUni
+          </span>
+        </div>
+
+
+
         <div className="flex flex-col lg:flex-row items-center gap-16">
           {/* Image Section */}
           <div className="flex-1 flex justify-center lg:justify-start">
@@ -30,14 +41,9 @@ const About = () => {
           </div>
 
           {/* Content Section */}
+
           <div className="flex-1 space-y-8">
             <div className="space-y-4">
-              <div className="inline-flex items-center space-x-2 bg-blue-50 px-4 py-2 rounded-full">
-                <div className="w-2 h-2 bg-blue-600 rounded-full"></div>
-                <span className="text-blue-600 font-semibold text-sm uppercase tracking-wide">
-                  About FindUni
-                </span>
-              </div>
 
               <h2 className="text-4xl lg:text-5xl font-bold text-slate-800 leading-tight">
                 Your Gateway to
